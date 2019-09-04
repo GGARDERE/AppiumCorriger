@@ -1,0 +1,3 @@
+TEST :
+
+# EXECUTE_SELENIUM2 Appium_Java/src/main WITH MAIN CLASS test.PageObjectTest AND COMPILE OPTIONS ${-encoding UTF-8}

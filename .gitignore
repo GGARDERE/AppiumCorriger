@@ -1,0 +1,6 @@
+/target/*
+/target/
+/.settings/*
+/.settings/
+/src/squashTA/resources/Appium_JAVA/target
+/src/squashTA/resources/Appium_JAVA/target/*
